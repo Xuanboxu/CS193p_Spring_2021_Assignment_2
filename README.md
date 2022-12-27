@@ -4,6 +4,7 @@
 
 * here is some preview of this coursework
 
-<img src="Images/demo1.png" alt="demo1" style="zoom:25%;" />
-
-<img src="Images/demo2.png" alt="demo2" style="zoom:25%;" />
+<div align=center>
+<img src="Images/demo1.png" alt="demo1" style="height:500px" />
+<img src="Images/demo2.png" alt="demo2" style="height:500px" />
+</div>
