@@ -2,7 +2,7 @@
 
 
 
-* here is some preview of this coursework
+* here is some previews of this coursework
 
 <div align=center>
 <img src="Images/demo1.png" alt="demo1" style="height:500px" />
